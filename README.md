@@ -1,3 +1,4 @@
+![Cover](Library_cover.png)
 # Library Management System (CLI + SQLite)
 
 A lightweight **command-line library management system** built in **Python (standard library only)** with **SQLite** storage. Supports **multiple copies per book**, borrower management, loan issuance/returns, due-date tracking, **late fee calculation**, and basic reporting (active loans, overdue loans, borrower history).
